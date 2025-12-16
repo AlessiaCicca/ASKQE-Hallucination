@@ -1,0 +1,3 @@
+pipeline,reference,compared,avg_sbert_similarity,num_comparisons
+vanilla,src,mt1,0.8625563830137253,4
+vanilla,src,mt2,0.8565417677164078,4
