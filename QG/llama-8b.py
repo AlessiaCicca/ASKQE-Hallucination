@@ -7,8 +7,7 @@ import re
 from prompt import prompts
 
 MODEL_ID = "Qwen/Qwen2.5-3B-Instruct"
-INPUT_PATH = "/content/ASKQE-Hallucination/data/src_mt_perturb_bt.jsonl"
-
+INPUT_PATH = "/content/ASKQE-Hallucination/dataNoPerturb/src_mt_bt.jsonl"
 def main():
     # =========================
     # LOAD MODEL & TOKENIZER
